@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+name: Monocle
+baseurl: /Monocle
+description: Optics library for Scala
+highlighter: rouge
+docs: true
+collections:
+  tut:
+    output: true
+version: 1.6.0+0-2616feec+20190716-1539-SNAPSHOT
+org: com.github.julien-truffaut
+markdown: kramdown
